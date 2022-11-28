@@ -1,3 +1,3 @@
 #Create a "Person" class
-class person:
+class Person:
     pass 
